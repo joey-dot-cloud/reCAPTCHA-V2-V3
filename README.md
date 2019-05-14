@@ -9,4 +9,4 @@ It's not likely to happen but if a user gets a low score i don't want to automat
 So this is where V2 comes in, this way i can give the user another chance to validate themselfs.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
